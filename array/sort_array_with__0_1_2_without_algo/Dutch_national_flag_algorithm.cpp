@@ -1,3 +1,8 @@
+//This algorithm is used to sort an array of 0s 1s and 2s without the use of extra space or sorting algorithms
+//Most optimal solution
+//Other approaches-ARRAY SORTING or COUNTING SORT
+//O(n) time comlexity
+//O(1) space complexity
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
